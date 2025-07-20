@@ -1,5 +1,1 @@
-Fork del repo
-
-Crear branch (feature/tu-cambio)
-
-Hacer PR, etc.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
